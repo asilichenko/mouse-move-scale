@@ -1,4 +1,4 @@
-package ua.cn.asilichenko.mousemovescale;
+package ua.in.asilichenko.mousemovescale;
 
 import javax.swing.*;
 import java.awt.*;
